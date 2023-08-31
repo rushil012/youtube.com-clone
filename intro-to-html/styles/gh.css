@@ -1,0 +1,61 @@
+p {
+  margin-top: 0px;
+  margin-bottom:3px ;
+  font-family:"Lucida Sans";
+  
+}
+.ok-ko {
+  object-position: center;
+  border-radius: 100px;
+  margin-left: 8px;
+  margin-right: 8px;
+  width: 55px;
+  
+}
+.ty-ui {
+  display: inline-block;
+  
+}
+.tr-r {
+  display: inline-block;
+  width: 180px;
+  margin-left: 4px;
+}
+.uy-i {
+  display: inline-block;
+  
+  
+  
+  
+  
+}
+.in-sta  {
+  margin: 0;
+  display: block;
+  background-color: rgb(0, 115, 255);
+  color: white;
+  width: 70px;
+  height: 30px;
+  
+  border-radius: 6px;
+  border: none;
+  font-weight: bold;
+  font-size: 14px;
+
+
+}
+.ol-iv {
+  font-weight: bold;
+
+}
+.ca-t,
+.i-u {
+  color: rgb(128, 128, 128);
+}
+.i-u {
+  font-size: 12px;
+  padding-top: 2px;
+}
+.t-u {
+  margin-bottom: 5px;
+}

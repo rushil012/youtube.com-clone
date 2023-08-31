@@ -1,0 +1,20 @@
+p {
+  font-family: Roboto,Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+  a {
+    text-decoration: none; /* Remove underlines from all links */
+    color: black; /* Change link color to black */
+  }
+
+
+body {
+  height: 1200px;
+  margin:0;
+  padding-top: 80px;
+  padding-left: 96px;
+  padding-right: 24px;
+  background-color: rgb(239, 237, 237);
+}

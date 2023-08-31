@@ -1,0 +1,75 @@
+.video-title {
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 18px;
+  width: 290px;
+  line-height: 24px;
+  margin-bottom: 5.8px;
+  
+}
+
+
+
+
+.video-stats {
+  font-family: Arial;
+  font-size: 14px;
+  color: var(--native-dark-font-color);
+  margin-top: 0px;
+  margin-bottom: 22px;
+
+
+}
+p {
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.video-author {
+
+  font-size: 14px;
+  color: var(--native-dark-font-color);
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+.video-description {
+  font-size: 14px;
+  color: var(--native-dark-font-color);
+  width: 280px;
+  line-height: 18px;
+  margin-top: 0;
+  margin-bottom: 100px;
+
+}
+.apple-text {
+  margin-bottom: 50px;
+  font-size: 14px;
+  background-color: rgb(209, 32, 31);
+  color: white;
+  text-align: center;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  
+}
+.span-example {
+  cursor: pointer;
+}
+.span-example:hover {
+  text-decoration: underline;
+}
+.blah-te {
+  font-family: Tahoma;
+  font-weight: bold;
+}
+.ok-ok {
+  font-family: Arial;
+  font-weight: bold;
+  margin-bottom: 15px;
+  width: 240px;
+}
+.yu-yu {
+  font-family: Arial;
+  font-style: italic;
+  color: red;
+  margin-top: 0px;
+}
